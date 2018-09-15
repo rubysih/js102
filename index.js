@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-//no test
-=======
-//test
->>>>>>> 6edb46e9faac7be9bffa57e9ab35b1477181f930
+
+//no test1111
+
 const repeat=(str,times) => {
     let result='';
     for(let i=0;i<times;i++){
