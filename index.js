@@ -1,4 +1,4 @@
-//testtttt
+//test
 const repeat=(str,times) => {
     let result='';
     for(let i=0;i<times;i++){
